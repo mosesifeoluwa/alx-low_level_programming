@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - addition of a line
- * Return: 0
- */
-
 int main(void)
 {
 	int n;
